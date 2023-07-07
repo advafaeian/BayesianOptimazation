@@ -1,0 +1,5 @@
+*
+!.gitignore
+!bayesian_optimization.ipynb
+!bayes_opt.mp4
+!requirements.txt
